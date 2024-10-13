@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <Box>
-     
+        {}
       <Pagination
         currentPage={currentPage}
         totalPages={totalPages}
